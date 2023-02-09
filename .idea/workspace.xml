@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63129a12-c657-4f7e-914f-94f032ef44ee" name="Changes" comment="study change 03" />
+    <list default="true" id="63129a12-c657-4f7e-914f-94f032ef44ee" name="Changes" comment="study change 03">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pachong/baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/pachong/baidu.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +109,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -257,7 +260,7 @@
       <workItem from="1674742616785" duration="24366000" />
       <workItem from="1675905219528" duration="6722000" />
       <workItem from="1675960228987" duration="373000" />
-      <workItem from="1675960614073" duration="23000" />
+      <workItem from="1675960614073" duration="531000" />
     </task>
     <task id="LOCAL-00001" summary="study change">
       <created>1675956449198</created>
